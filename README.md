@@ -74,8 +74,8 @@ This project aims to generate textual explanations for sarcastic social media po
 1. Clone this repository and set up your environment.
 2. Place the dataset files in the correct paths.
 3. Run either of the following to start training:
-   - `task3.ipynb` (Jupyter Notebook)
-   - `task3.py` (Python script)
+   - `code.ipynb` (Jupyter Notebook)
+   - `code.py` (Python script)
 4. The output directory will include:
    - Trained model checkpoints
    - Generated explanations for validation/test sets
